@@ -1,1 +1,1 @@
-im trying to npn nodemon but its not working
+im trying to npx nodemon but its not working
